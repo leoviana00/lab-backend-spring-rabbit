@@ -2,10 +2,13 @@
 
 ## Current - Work in progress
 ### Merges
+*  Merge pull request #4 from leoviana00/feature/config/base-project-spring [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/40680cc13160cc40a090514bf1ef85899bbdfda5)
 *  Merge pull request #3 from leoviana00/feature/config/infra/local [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/eef05b02e22a7224176df285d2c067c13c6662b5)
 ### Commits
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/fba429903b48284d5deb79fd373dd73d9cb5520f)
 *  feat(config): local infrastructure [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/2643d654a0daf3ecaaa6d9562f43256509f6567f)
+*  feat(project): base project created [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/6b433e38a05dc884a3dc8290c65a6751110d984a)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/82c4445a5eb9af776f69e47c320c90ed1ec95a0e)
 
 
 
