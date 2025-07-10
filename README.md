@@ -20,7 +20,7 @@
 
 
 
-## 🌱 Projeto
+## Projeto
 
 Escopo do Projeto:
 
@@ -31,7 +31,7 @@ Construir um microserviço que seja capaz de:
     - Quantidade de pedidos por cliente;
     - Lista de pedidos reslizados por cliente;
 
-## ✨ Tecnologias
+## Tecnologias
 
 - [Springboot](https://spring.io/projects/spring-boot)
 - [RabbitMQ](https://www.rabbitmq.com/)
@@ -40,7 +40,7 @@ Construir um microserviço que seja capaz de:
 - [Docker](https://www.docker.com/)
 - [Insomnia](https://insomnia.rest/download)
 
-## 🎯 Objetivos
+## Objetivos
 
 Melhorar o entendimento dos itens abaixo:
 
@@ -51,16 +51,16 @@ Melhorar o entendimento dos itens abaixo:
 - Como fazer aggregations no MongoDB com Spring
 - Como efetuar logs com o SLF4J
 
-## ✏️ Arquitetura
+## Arquitetura
 
 - Diagrama arquitetural
 
 <p align="center">
-  <img alt="Rabbit" src="./image/spring-rabbit.jpg">
+  <img alt="Rabbit" src="./image/spring-rabbit.drawio.svg">
 </p>
 
 
-## 📌 Roadmap
+## Roadmap
 
 - [x] Entendimento (Qual é o desafio que vamos resolver?)
 
@@ -88,7 +88,7 @@ Melhorar o entendimento dos itens abaixo:
 
 
 
-## 🗒️ Referências
+## Referências
 
 - [Start Springboot](https://docs.spring.io/spring-boot/tutorial/first-application/index.html)
 - [Messaging with RabbitMQ](https://spring.io/guides/gs/messaging-rabbitmq)
