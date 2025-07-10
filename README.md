@@ -15,8 +15,10 @@
 </p>
 
 <p align="center">
-  <img alt="CI/CD" src="">
+  <img alt="Rabbit" src="./image/spring-docker-rabbit.png">
 </p>
+
+
 
 ## Projeto
 
@@ -31,11 +33,12 @@ Construir um microserviço que seja capaz de:
 
 ## Tecnologias
 
-- Springboot
-- RabbitMQ
-- MongoDB
-- MongoDB Compass
-- Docker
+- [Springboot](https://spring.io/projects/spring-boot)
+- [RabbitMQ](https://www.rabbitmq.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
+- [Docker](https://www.docker.com/)
+- [Insomnia](https://insomnia.rest/download)
 
 ## Objetivos
 
@@ -52,10 +55,14 @@ Melhorar o entendimento dos itens abaixo:
 
 - Diagrama arquitetural
 
+<p align="center">
+  <img alt="Rabbit" src="./image/spring-rabbit.drawio.svg">
+</p>
+
 
 ## Roadmap
 
-- [ ] Entendimento (Qual é o desafio que vamos resolver?)
+- [x] Entendimento (Qual é o desafio que vamos resolver?)
 
 - Comunicação com o banco de dados:
     - [x] Iniciando o projeto Java (Web, Data MongoDB, RabbitMQ)
@@ -66,20 +73,24 @@ Melhorar o entendimento dos itens abaixo:
 - Funcionalidade de Consumo de Pedidos:
     - [x] Mapear as entidades (Order, OrderItem)
     - [x] Criar o listener da fila do RabbitMQ
-    - [ ] Criar a implementação para salvar o pedido no MongoDB
-    - [ ] Testar o fluxo (rabbitmq → spring → mongodb)
+    - [x] Criar a implementação para salvar o pedido no MongoDB
+    - [x] Testar o fluxo (rabbitmq → spring → mongodb)
 
 - Funcionalidade de disponibilizar as informações via API:
-    - [ ] Lembre-se, a API deverá informar:
+    - [x] Lembre-se, a API deverá informar:
         - Lista de pedidos realizados por cliente
         - Valor total de um pedido
         - Quantidade de pedidos por cliente
-    - [ ] Criar endpoint (estruturar DTO de retorno)
-    - [ ] Criar serviço de listagem de pedidos do cliente
-    - [ ] Criar serviço que calcula o valor total de todos os pedidos do cliente
-    - [ ] Testar a API
+    - [x] Criar endpoint (estruturar DTO de retorno)
+    - [x] Criar serviço de listagem de pedidos do cliente
+    - [x] Criar serviço que calcula o valor total de todos os pedidos do cliente
+    - [x] Testar a API
 
 
 
 ## Referências
 
+- [Start Springboot](https://docs.spring.io/spring-boot/tutorial/first-application/index.html)
+- [Messaging with RabbitMQ](https://spring.io/guides/gs/messaging-rabbitmq)
+- [Connecting Spring Boot to MongoDB: A Step-by-Step Guide](https://medium.com/@samuelcatalano/connecting-spring-boot-to-mongodb-a-step-by-step-guide-b9f2fd9e872d)
+- [Desafio Backend ~ BTG Pactual  - Build & Run](https://brunograna.notion.site/Desafio-Backend-BTG-Pactual-Build-Run-3f48048e3e594fbea580c006eac6ff08)
