@@ -2,8 +2,12 @@
 
 ## Current - Work in progress
 ### Merges
-
+*  Merge pull request #7 from leoviana00/docs/project [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/84d571c21d263125763b571d38f26ffd3b4e433b)
 ### Commits
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/79ec0164554dac992f794b172020fe072d4455fe)
+*  docs(readme): update readme project [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/546e7414482ed9880894b30c45cd6e1f43d7e29d)
+*  docs(readme): update document project [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/423a20210601cfa7df73a835a7421be4c9b80c60)
+*  docs(readme): fix image spring diagram [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/f8e59f8d98ee33eebbb50890f4a88704fde780e2)
 
 
 
