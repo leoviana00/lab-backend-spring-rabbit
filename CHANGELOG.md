@@ -2,6 +2,14 @@
 
 ## Current - Work in progress
 ### Merges
+
+### Commits
+
+
+
+## 2.0.0 - (2025-07-08)
+### Merges
+*  Merge pull request #6 from leoviana00/feature/consumo-pedidos [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/79bcbfb7c8511f21924b9cd404c235bd69ead1b7)
 *  Merge pull request #5 from leoviana00/feature/consumo-pedidos [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/6c93d3af4d3d4a109f26992737df6de9f3607a27)
 *  Merge pull request #4 from leoviana00/feature/config/base-project-spring [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/40680cc13160cc40a090514bf1ef85899bbdfda5)
 *  Merge pull request #3 from leoviana00/feature/config/infra/local [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/eef05b02e22a7224176df285d2c067c13c6662b5)
@@ -20,6 +28,8 @@
 *  feat(response): Create endpoint (structure return DTO) [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/7c1114786d0889e62cb32a7afb9921bc705f0bc4)
 *  feat(service): Create customer order listing service [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/a0d86210783ae4d7f3a47ad94562c6c3871695d9)
 *  feat(public): Public messag [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/77d1b28af737164e13161edfcdc9d4caa71ae07e)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/7430e960ff5ce7345b675f27591f382cbc93c49d)
+*  feat(changelog): tag para versionamento changelog [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/c4934dee6720f6c6ba692f91d3fd8ee97272df24)
 
 
 
@@ -40,8 +50,9 @@
 *  feat(config): changelog and issues templates [View](https://github.com/leoviana00/lab-backend-spring-rabbit/commits/645e070618ca169afd7f156b98b06283d0422b57)
 ## 📝 Metadata
 ```
-This version -------- 1.0.0
+This version -------- 2.0.0
+1.0.0
 0.0.0
-Previous version ---- 0.0.0
-Total commits ------- 3
+Previous version ---- 1.0.0
+Total commits ------- 23
 ```
